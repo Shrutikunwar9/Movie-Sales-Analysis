@@ -19,21 +19,15 @@ All data cleaning and additional calculations (e.g., ROI, profit) were performed
 
 **Advanced Insights:**
 
-Profitability & ROI trends over time
+## Dashboard
+![Advance query](https://github.com/user-attachments/assets/0f66ee57-edab-4c28-a08b-f105c45e507d)
 
-Most bankable actors and directors
-
-Top-performing genres based on revenue
-
-Relationship between star power and box office success
 
 **Basic Queries:**
 
-Highest-grossing movies
+## Dashboard
+![Basic query](https://github.com/user-attachments/assets/4bddfe3f-db82-4084-997a-153c543be1b5)
 
-Most watched movies based on revenue
-
-Genre-wise revenue distribution
 
 ## Business Problems and Solutions
 ## SQL Insights
